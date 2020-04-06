@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9ab1c59a-3256-4efa-9e53-46936fd1557e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/jboss/resteasy/test/providers/jackson2/resource/ProxyWithGenericReturnTypeJacksonAbstractParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/jboss/resteasy/test/providers/jackson2/resource/ProxyWithGenericReturnTypeJacksonAbstractParent.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,12 +15,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="90" column="55" selection-start-line="90" selection-start-column="55" selection-end-line="90" selection-end-column="55" />
+            <state relative-caret-position="257">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/d5/jdk-11.0.2/lib/src.zip!/java.base/java/io/UncheckedIOException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="184">
+                <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/jboss/resteasy/test/providers/jackson2/ProxyWithGenericReturnTypeJacksonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="76" column="76" lean-forward="true" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -28,7 +60,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ProxyWithGenericReturnTypeJacksonTest</find>
+      <find>JsonSubTypes</find>
+      <find>utils-arquillian-utils</find>
+      <find>quarkus-plugin.version</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/test/java/org/jboss/resteasy/test/providers/jackson2</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,8 +74,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/org/jboss/resteasy/test/providers/jackson2/resource/ProxyWithGenericReturnTypeJacksonAbstractParent.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -49,8 +88,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="106" />
-    <option name="y" value="237" />
+    <option name="x" value="133" />
+    <option name="y" value="242" />
     <option name="width" value="1381" />
     <option name="height" value="810" />
   </component>
@@ -68,6 +107,41 @@
               <item name="quarkus-JsonSubTypes-annotation" type="b2602c69:ProjectViewProjectNode" />
               <item name="quarkus-JsonSubTypes-annotation" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="quarkus-JsonSubTypes-annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quarkus-JsonSubTypes-annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quarkus-JsonSubTypes-annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quarkus-JsonSubTypes-annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quarkus-JsonSubTypes-annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quarkus-JsonSubTypes-annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quarkus-JsonSubTypes-annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quarkus-JsonSubTypes-annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quarkus-JsonSubTypes-annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quarkus-JsonSubTypes-annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="jackson2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -76,7 +150,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582145765463" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582293101312" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunDashboard">
@@ -91,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Remote.maven-debug">
     <configuration name="Debug" type="Remote">
       <module name="quarkus-JsonSubTypes-annotation" />
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -106,6 +181,24 @@
       </RunnerSettings>
       <method v="2" />
     </configuration>
+    <configuration name="maven-debug" type="Remote">
+      <module name="quarkus-JsonSubTypes-annotation" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8787" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8787" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Remote.Debug" />
+      <item itemvalue="Remote.maven-debug" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -121,10 +214,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="237" width="1381" height="810" extended-state="0" />
+    <frame x="133" y="242" width="1381" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09556057" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08728367" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -135,7 +228,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5548589" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -153,6 +246,30 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/jboss/resteasy/test/providers/jackson2/ProxyWithGenericReturnTypeJacksonTest.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/d5/jdk-11.0.2/lib/src.zip!/java.base/java/io/UncheckedIOException.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/d5/jdk-11.0.2/lib/src.zip!/java.base/java/io/UncheckedIOException.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/org/jboss/resteasy/test/providers/jackson2/Jackson2Test.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -161,27 +278,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/jboss/resteasy/test/providers/jackson2/resource/ProxyWithGenericReturnTypeJacksonAbstractParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/d5/jdk-11.0.2/lib/src.zip!/java.base/java/io/UncheckedIOException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="56" column="6" lean-forward="true" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/jboss/resteasy/test/providers/jackson2/ProxyWithGenericReturnTypeJacksonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-311">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="363">
+          <caret line="76" column="76" lean-forward="true" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="96">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <first_editor relative-caret-position="184">
+            <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="90" column="55" selection-start-line="90" selection-start-column="55" selection-end-line="90" selection-end-column="55" />
         </state>
       </provider>
     </entry>

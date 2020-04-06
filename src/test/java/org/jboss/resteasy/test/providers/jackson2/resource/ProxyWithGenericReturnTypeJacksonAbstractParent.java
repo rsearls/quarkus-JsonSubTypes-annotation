@@ -3,7 +3,7 @@ package org.jboss.resteasy.test.providers.jackson2.resource;
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 
-@JsonTypeInfo(use = JsonTypeInfo.Id.NAME, include = JsonTypeInfo.As.PROPERTY, property = "type")
+@JsonTypeInfo(use = JsonTypeInfo.Id.NAME, include = JsonTypeInfo.As.PROPERTY, property = "type", visible=true)
 @JsonSubTypes({
       @JsonSubTypes.Type(value = ProxyWithGenericReturnTypeJacksonType1.class, name = "type1"),
       @JsonSubTypes.Type(value = ProxyWithGenericReturnTypeJacksonType2.class, name = "type2")})
